@@ -1,0 +1,27 @@
+# Dependency directories (for all services)
+**/node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Build artifacts
+**/dist/
+**/build/
+
+# Cache files
+.nyc_output
+.cache
+.cache-loader
+
+# Editor and OS-specific files
+.vscode/
+*.code-workspace
+*.swp
+*.swo
+*.swn
+*.bak
+.DS_Store
+Thumbs.db
